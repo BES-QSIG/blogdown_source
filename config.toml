@@ -243,6 +243,11 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/bes_qe_sig"
+    
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://www.facebook.com/groups/1146744022025174/"
 
   [[params.social]]
     icon = "github"
