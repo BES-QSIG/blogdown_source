@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on BES QUANTITATIVE ECOLOGY GROUP</title>
+    <link>https://BES-QSIG.github.io/tags/courses/</link>
+    <description>Recent content in Courses on BES QUANTITATIVE ECOLOGY GROUP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://BES-QSIG.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advancing your R</title>
+      <link>https://BES-QSIG.github.io/events/2018-12-3-advancing-your-r/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://BES-QSIG.github.io/events/2018-12-3-advancing-your-r/</guid>
+      <description>The British Ecological Society Quantitative Ecology Group are hosting a two-day R workshop which will cover reproducible data manipulation and visualisation workflows in R. Day One will be focussed on the tidyverse, while Day Two will move into working with spatial data.
+Day One: Data manipulation and visualisation in R using the tidyverse Workshop leader: Gergana Daskalova, University of Edinburgh, Coding Club The tidyverse collection of packages (tidyr, dplyr, ggplot2, broom and more) is a great tool for efficient data manipulation, visualisation and analysis.</description>
+    </item>
+    
+    <item>
+      <title>Advancing your R</title>
+      <link>https://BES-QSIG.github.io/events/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://BES-QSIG.github.io/events/</guid>
+      <description>The British Ecological Society Quantitative Ecology Group are hosting a two-day R workshop which will cover reproducible data manipulation and visualisation workflows in R. Day One will be focussed on the tidyverse, while Day Two will move into working with spatial data.
+Day One: Data manipulation and visualisation in R using the tidyverse Workshop leader: Gergana Daskalova, University of Edinburgh, Coding Club The tidyverse collection of packages (tidyr, dplyr, ggplot2, broom and more) is a great tool for efficient data manipulation, visualisation and analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<article class="article article-events" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <h1>{{ .Title }}</h1>
+      {{ if .Params.end_date}}
+        <h2>{{ dateFormat "Mon 2 Jan, 2006" .Params.start_date }} to {{ dateFormat "Mon 2 Jan, 2006" .Params.end_date }}</h2>
+      {{ else }}
+        <h2>{{ dateFormat "Mon 2 Jan, 2006" .Params.start_date }}</h2>     
+      {{ end }}
+      <h2>{{ .Params.location }}</h2>
+      <hr>
+      {{ .Content }}
+      
+    </div>
+    
+    {{ partial "tags.html" . }}
+    {{ partial "page_author.html" . }}
+  </div>
+</article>
+
+{{ if .Site.Params.section_pager }}
+<div class="article-container article-widget">
+  {{ partial "section_pager.html" . }}
+</div>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
