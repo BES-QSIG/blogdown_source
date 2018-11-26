@@ -279,8 +279,15 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Courses"
+  identifier = "courses"
   url = "/courses/"
   weight = 4
+  
+[[menu.main]]
+  name = "Advancing Your R"
+  parent = "courses"
+  url = "/courses/advancingr/"
+  weight = 1
 
 [[menu.main]]
   name = "Contact"

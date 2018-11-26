@@ -32,6 +32,9 @@
 
         <div class="docs-article-container">
           <h1 itemprop="name">{{ .Title }}</h1>
+          {{ if .Params.author}}
+          <h2>{{ .Params.author }}</h2>
+          {{ end }}
           <hr>
           <div class="article-style" itemprop="articleBody">
             {{ .Content }}

@@ -4,7 +4,7 @@ title = "Advancing Your R"
 date = 2018-11-20
 # lastmod = 2018-11-20
 
-draft = true  # Is this a draft? true/false
+draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
@@ -12,6 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Advancing Your R"
 [menu.courses]
   name = "Advancing Your R"
+  identifier = "advancingr"
   weight = 2
 +++
 

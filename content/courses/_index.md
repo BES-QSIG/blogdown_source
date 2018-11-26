@@ -9,8 +9,10 @@ toc = false  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
+linktitle = "Courses"
 [menu.courses]
   name = "Courses"
+  identifier = "courses"
   weight = 1
 +++
 
