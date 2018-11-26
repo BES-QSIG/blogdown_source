@@ -23,7 +23,7 @@ R Markdown allows you to create documents that serve as a neat record of your an
 
 R Markdown uses <a href="http://www.markdowntutorial.com" target="_blank">markdown syntax</a>. Markdown is a very simple 'markup' language which provides methods for creating documents with headers, images, links etc. from plain text files, while keeping the original plain text file easy to read. You can convert Markdown documents to other file types like `.html` or `.pdf`.
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/md_script.png" alt="Img" style="width: 900px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png" alt="Img" style="width: 900px;"/> </center>
 
 ## 2. Download R Markdown
 To get R Markdown working in RStudio, the first thing you need is the `rmarkdown` package, which you can get from <a href="https://cran.r-project.org/web/packages/rmarkdown/index.html" target="_blank">CRAN</a> by running the following commands in R or RStudio:
@@ -54,7 +54,7 @@ By default, the `title`, `author`, `date` and `output` format are printed at the
 
 Now that we have our first piece of content, we can test the `.Rmd` file by compiling it to `.html`. To compile your `.Rmd` file into a `.html` document, you should press the `Knit` button in the taskbar:
 
-<img src="{{ site.baseurl }}/courses/advancingr/Knit_HTML_Screenshot.jpg" alt="Img">
+<img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/Knit_HTML_Screenshot.jpg" alt="Img">
 
  Not only does a preview appear in the `Viewer` window in RStudio, but it also saves a `.html` file to the same folder where you saved your `.Rmd` file.
 
@@ -144,7 +144,7 @@ __Now you can start copying across the code from your tidyverse script and inser
 
 You can run an individual chunk of code at any time by placing your cursor inside the code chunk and selecting `Run -> Run Current Chunk`:
 
-<img src="{{ site.baseurl }}/courses/advancingr/run_sel.png" alt="Img" style="width: 900px;"/>
+<img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/run_sel.png" alt="Img" style="width: 900px;"/>
 
 ### Summary of  code chunk instructions
 
@@ -334,7 +334,7 @@ load("LPDdata_Feb2016.RData")
 head(LPDdata_Feb2016)
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/wide.png" alt="Img" style="width: 600px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/wide.png" alt="Img" style="width: 600px;"/> </center>
 
 At the moment, each row contains a population that has been monitored over time and towards the right of the data frame there are lots of columns with population estimates for each year. To make this data "tidy" (one column per variable) we can use `gather()` to transform the data so there is a new column containing all the years for each population and an adjacent column containing all the population estimates for those years.
 
@@ -371,7 +371,7 @@ LPD_long$biome <- gsub("/", "", LPD_long$biome, fixed = TRUE)
 head(LPD_long)
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/long.png" alt="Img" style="width: 600px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/long.png" alt="Img" style="width: 600px;"/> </center>
 
 Now that our dataset is *tidy* we can get it ready for our analysis. We want to only use populations that have more than 5 years of data to make sure our analysis has enough data to capture population change. We should also scale the population data, because since the data come from many species, the units and magnitude of the data are very different - imagine tiny fish whose abundance is in the millions, and large carnivores whose abundance is much smaller. Scaling also normalises the data, as later on we will be using linear models assuming a normal distribution. To do all of this in one go, we can use pipes.
 
@@ -484,7 +484,7 @@ forest.panel <- grid.arrange(forest.hist, duration.forests, ncol = 2)
 ggsave(forest.panel, file = "forest_panel.png", height = 5, width = 10)
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/forest_panel.png" alt="Img" style="width: 900px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/forest_panel.png" alt="Img" style="width: 900px;"/> </center>
 
 We are now ready to model how each population has changed over time. There are 1785 populations, so with this one code chunk, we will run 1785 models and tidy up their outputs. You can read through the line-by-line comments to get a feel for what each line of code is doing.
 
@@ -541,7 +541,7 @@ __Now we can visualise the outputs of all our models and see how they vary based
 ggsave(density.slopes, filename = "slopes_duration.png", height = 6, width = 6)
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/slopes_duration.png" alt="Img" style="width: 600px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/slopes_duration.png" alt="Img" style="width: 600px;"/> </center>
 
 <a name="pipes"></a>
 
@@ -592,8 +592,8 @@ A warning message pops up: `Error: Results 1, 2, 3, 4 must be data frames, not N
 
 If you go check out your folder now, you should see four histograms, one per taxa:
 <center> 
-  <img src="{{ site.baseurl }}/courses/advancingr/folder.png" alt="Img" style="width: 500px;"/> 
-  <img src="{{ site.baseurl }}/courses/advancingr/mamm.png" alt="Img" style="width: 500px;"/> 
+  <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/folder.png" alt="Img" style="width: 500px;"/> 
+  <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/mamm.png" alt="Img" style="width: 500px;"/> 
 </center>
 
 Another way to make all those histograms in one go is by creating a function for it. In general, whenever you find yourself copying and pasting lots of code only to change the object name, you're probably in a position to swap all the code with a function - you can then apply the function using the `purrr` package.
@@ -735,7 +735,7 @@ We are working with thousands of records, so depending on your computer, making 
                size = 2, colour = "darkgreen"))
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/deer_map.png" alt="Img" style="width: 900px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/deer_map.png" alt="Img" style="width: 900px;"/> </center>
 
 The map already looks fine, but we can customise it further to add more information. For example, we can add labels for the locations of some of the monitored populations and we can add plots of population change next to our map.
 
@@ -917,7 +917,7 @@ deer.panel <- grid.arrange(row1, row2, nrow = 2, heights = c(1.2, 0.8))
 ggsave(deer.panel, filename = "deer_panel2.png", height = 10, width = 15)
 ```
 
-<center> <img src="{{ site.baseurl }}/courses/advancingr/deer_panel2.png" alt="Img" style="width: 900px;"/> </center>
+<center> <img src="https://BES-QSIG.github.io/courses/advancingr/md_script.png/courses/advancingr/deer_panel2.png" alt="Img" style="width: 900px;"/> </center>
 
 ### A challenge for later if you are keen
 
