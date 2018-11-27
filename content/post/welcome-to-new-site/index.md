@@ -27,7 +27,7 @@ categories = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Top"
 +++
 
 We have migrated from our old [Wordpress site](https://besquantitativeecology.wordpress.com/) in order to keep everything in one place. Our Wordpress site will function as an archive, but new material will be updated here. 

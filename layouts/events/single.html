@@ -8,7 +8,6 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <h1>{{ .Title }}</h1>
       {{ if .Params.end_date}}
         <h2>{{ dateFormat "Mon 2 Jan, 2006" .Params.start_date }} to {{ dateFormat "Mon 2 Jan, 2006" .Params.end_date }}</h2>
       {{ else }}
