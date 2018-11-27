@@ -1,5 +1,5 @@
 +++
-title = "Welcome to the new Quantitative Ecology Blog"
+title = "Welcome to the new Quantitative Ecology Site"
 date = 2018-11-27
 draft = false
 
