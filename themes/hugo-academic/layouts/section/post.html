@@ -5,6 +5,8 @@
 
 <div class="universal-wrapper">
 
+  <h1>{{ .Title }}</h1>
+  
   {{ with .Content }}
   <div class="article-style" itemprop="articleBody">{{ . }}</div>
   {{ end }}
