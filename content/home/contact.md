@@ -20,3 +20,6 @@ autolink = true
 email_form = 0
 +++
 
+<a class="btn btn-primary btn-outline btn-xs{{end}}"     href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=BESQUANTITATIVE&A=1" target="_blank"> <i class="fa fa-file-text" aria-hidden="true"></i> Subscribe to our mailing list </a>
+
+
