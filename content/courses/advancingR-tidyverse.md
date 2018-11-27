@@ -4,7 +4,7 @@ author = "Gergana Daskalova"
 date = 2018-11-20
 # lastmod = 2018-11-20
 
-draft = false  # Is this a draft? true/false
+draft = true  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
