@@ -16,6 +16,33 @@ linktitle = "Advancing Your R"
   weight = 2
 +++
 
+## Pre-course Instructions
+
+Below see instructions on the software and R packages to install **before** you arrive. Note that you will receive the greatest benefit of the course if you have already installed the software and packages. 
+
+You will need to have an up-to-date installation of [R](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download). 
+
+You will need to install [PostgreSQL](https://www.postgresql.org/download/). 
+
+You will also need to install some R packages using the below code:
+
+```
+install.packages("rmarkdown")
+install.packages("tidyverse")
+install.packages("broom")
+install.packages("ggExtra")
+install.packages("maps")
+install.packages("RColorBrewer")
+install.packages("gridExtra")
+install.packages("rgbif")
+install.packages("CoordinateCleaner")
+install.packages("ggrepel")
+install.packages("png")
+install.packages("mapdata")
+install.packages("ggthemes")
+install.packages("sf")
+install.packages("RPostgreSQL")
+```
 ## Getting here
 
 The course is taking place in the Waterhouse Room at the [Foresight Centre](https://www.liverpool.ac.uk/conferences-and-events/venue-finder/foresight-centre/), University of Liverpool. 
@@ -42,6 +69,3 @@ Liverpool John Lennon  Airport is 7 Miles away from the Foresight Centre.
 
 The Airlink 500 loops to the city centre every 30 minutes. 
 
-## Pre-course Instructions
-
-Below see instructions on the software and R packages to install **before** you arrive. Note that you will receive the greatest benefit of the course if you have already installed the software and packages. 
