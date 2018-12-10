@@ -15,6 +15,8 @@ linktitle = "Day Two: Working with spatial data"
   weight = 2
 +++
 
+# Install packages
+
 For this "tutorial", you will need some packages and their dependencies
 
 ```r
@@ -36,7 +38,7 @@ library(rgbif)
 ```
 The data for this tutorial are available from [here](needs link). 
 
-# What is a spatial object?
+# PART I: What is a spatial object?
 
 A spatial object is an entity with coordinates in a geographical space (x, y) or (x, y, z) with a specific projection.
 
@@ -100,7 +102,7 @@ text(x = -453585, y = 25000, "EPSG:27700 - OSGB 1936 ", pos = 4, cex = 0.7)
 plot(country_sf_gbr_osgb$geometry, graticule = TRUE, axes = TRUE, col = "wheat1")
 raster::drawExtent()
 ```
-# Building and working with spatial objects using sf in R
+# PART II: Building and working with spatial objects using sf in R
 
 This is a revolution, providing a modern, stronger and cleaner workflow to deal with spatial object in R, at least vector data. The "sf" is developed by some of the same people that provide us with "sp", offering an ecosystem that open new opportunities to do GIS in R. The firs place to look for resource is the sf package website https://r-spatial.github.io/sf/index.html, this a first stop to learn how it work and develop new skills in R.
 
@@ -210,7 +212,7 @@ plot(st_geometry(st_centroid(poly1)), col = "black", pch = 19, add = TRUE)
 
 If you like it tidy and the dplyr way? Since sf is essentally a data.frame with  a list of spatial attribute attached, it works well in the tidy univers. Have a look at this blog to get a first feel http://strimas.com/r/tidy-sf/.
 
-# Load and manipulate spatial objects
+# PART III: Load and manipulate spatial objects
 
 Spatial data are increasingly available from the Web, from species occurrence to natural and cultural features data, accessing spatial data is now relatively easy. For base layers, you can find many freely available data sets such as the ones provided by the Natural Earth [http://www.naturalearthdata.com], the IUCN Protected Planet database [www.protectedplanet.net], the GADM project [https://gadm.org], worldclim [http://worldclim.org/version2] the CHELSA climate data sets [http://chelsa-climate.org] or the European Environmental Agency [https://www.eea.europa.eu/data-and-maps/data#c0=5&c11=&c5=all&b_start=0]
 
@@ -331,7 +333,7 @@ plot(g.bbox_sf, add = TRUE)
 > Get some river data from
 > http://land.copernicus.eu/pan-european/satellite-derived-products/eu-hydro/eu-hydro-public-beta/eu-hydro-river-network/view
 
-# Interfacing R and PosgreSQL/PostGIS
+# PART IV: Interfacing R and PosgreSQL/PostGIS
 
 1. Install PostgreSQL, with the PostGIS extension
 2. Create a database
@@ -404,7 +406,7 @@ raster::plot(hill, col = grey(0:100/100), legend = FALSE)
 plot(sf::st_transform(new_extract, 4326), add = TRUE)
 raster::plot(alt, col = terrain.colors(25, alpha = 0.5), add = TRUE)
 ```
-# Plot your spatial object data with ggplot2
+# PART V: Plot your spatial object data with ggplot2
 
 ```r
 library(ggplot2)
@@ -528,7 +530,6 @@ plot(deer_locations_sf[, "datasetKey"])
 # YOUR TURN!
 # ===========
 ```
-
 # Your challenge, build some wider map for Europe
 
 Have a look at tutorial 1, 2 and 3 on how to draw beautiful map with sf.
