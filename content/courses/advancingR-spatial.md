@@ -15,7 +15,9 @@ linktitle = "Day Two: Working with spatial data"
   weight = 2
 +++
 
-# Install packages
+# Part I: Preliminaries
+
+## Required packages
 
 For this "tutorial", you will need some packages and their dependencies
 
@@ -38,7 +40,7 @@ library(rgbif)
 ```
 The data for this tutorial are available from [here](needs link).
 
-# PART I: What is a spatial object?
+## What is a spatial object?
 
 A spatial object is an entity with coordinates in a geographical space (x, y) or (x, y, z) with a specific projection.
 
