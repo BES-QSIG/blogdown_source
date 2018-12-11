@@ -36,7 +36,7 @@ library(RPostgreSQL)
 library(rgdal)
 library(rgbif)
 ```
-The data for this tutorial are available from [here](needs link). 
+The data for this tutorial are available from [here](needs link).
 
 # PART I: What is a spatial object?
 
