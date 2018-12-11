@@ -460,7 +460,9 @@ We will see our custom theme `theme_LPD()` in action as well!
               colour = "darkred", linetype = "dashed", size = 1) +
    scale_fill_manual(values = c("#66CD00", "#53868B")) +
    theme_LPD() +
-   labs(title = "a) Data distribution\n") +
+   labs(title = "a) Data distribution\n", x = "\nScaled population size",
+        y = "Count\n") +
+   # \n adds a blank line
    guides(fill = F)) # Hiding the legend - this will be a two plot panel
 # thus we don't need the same legend twice
 ```
@@ -919,10 +921,14 @@ ggsave(deer.panel, filename = "deer_panel2.png", height = 10, width = 15)
 
 <center> <img src="https://BES-QSIG.github.io/courses/advancingr/deer_panel2-3.png" alt="Img" style="width: 900px;"/> </center>
 
-### A challenge for later if you are keen
+## Challenges
 
-__If that wasn't challenging enough for you, we have a challenge for you to figure out on your own.
-Take what you have learned about pipes and make a map for the five most well-sampled populations in the LPD database (the ones with the most replicate populations). You get extra points for incorporating a handwritten function to make the map and for using purr to implement that function.__
+__Take what you have learned about pipes and make a map of the five most well-sampled populations in the LPD database (the ones with the most replicate populations) and colour code the points by the population trend (derived from the models we did) and the size by the duration of the time series. You can try incorporating a handwritten function to make the map and using purr to implement that function, or you can go straight into `ggplot2`.__
+
+__Pick a country and species of your choice. Download the GBIF records for that species from your selected country (or you can do the world if you don't mind waiting a few more minutes for the GBIF data to download). Plot where the species occurs. Then, add the locations of the Living Planet Database populations of the same species - do we have long-term records from the whole range of the species? Where are the gaps? You can have a go at combining the LPD and GBIF databases in a meaningful way - hint: look up the different joining functions from `dplyr` - `left_join()`, `inner_join()`, etc.__
+
+__Use another projection for the map - the default is Mercator, but that's not the best way to represent the world. Hint - you can still use `ggplot2` - look up the `proj4` package and how to combine it with `ggplot2`.__ 
+
 
 
 ## Extra resources
