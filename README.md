@@ -19,6 +19,19 @@ To create new blog posts and events, a new folder should be created in the relev
 
 To create new course documentation, the .md file will go directly in the `courses/` folder. See the Advancing your R course for an example of how to set this up. It's important to update the `[menu.courses]` section to ensure that the sidebar menu is correct. 
 
+## Adding a section
+
+Create a new folder in the `content/` directory with the same name as the new section. 
+
+Into `config.toml` add a new navigation link. These are towards the bottom of the file and take the structure
+```
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+```
+`weight` controls the order of the section on the menu bar. 
+
 ## Questions
 
 If you get stuck making updates, please contact the [quantitative](mailto:quantitative@britishecologicalsociety.org) email address, or raise an issue on this GitHub repository. 
