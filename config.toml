@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "quantitative@britishecologicalsociety.org"
-  
+
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -243,7 +243,7 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/bes_qe_sig"
-    
+
   [[params.social]]
     icon = "facebook"
     icon_pack = "fab"
@@ -264,25 +264,42 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "QE-SIG"
+  parent = "about"
+  url = "/about/QESIG/"
+  weight = 1
+
+[[menu.main]]
+  name = "Committee"
+  parent = "about"
+  url = "/about/committee/"
+  weight = 2
 
 [[menu.main]]
   name = "Events"
   url = "#events"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
-  
+  weight = 4
+
 [[menu.main]]
   name = "Courses"
   identifier = "courses"
   url = "/courses/"
-  weight = 4
-  
+  weight = 5
+
 [[menu.main]]
   name = "Advancing Your R"
   parent = "courses"
@@ -292,7 +309,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 # Search.
 [params.search]
