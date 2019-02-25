@@ -276,7 +276,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "QE-SIG"
   parent = "about"
-  url = "/about/QESIG/"
+  url = "/about/qesig/"
   weight = 1
 
 [[menu.main]]
