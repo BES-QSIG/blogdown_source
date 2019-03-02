@@ -2133,3 +2133,7 @@ body.dark,
 .dark .btn.btn-primary.active {
   color: initial;
 }
+
+.member_affiliation{
+  color:#b5b5b5;
+}
