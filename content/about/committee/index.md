@@ -47,3 +47,10 @@ Liam is a biological modeller with special focus on vegetation distribution mode
 Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lancaster. She is interested in understanding the processes behind species distributions, diversity and community composition and uses a range of methods including species distribution models and multivariate statistics. She is particularly interested in methods to combine multiple datasets (e.g. professional surveys and citizen science) to answer ecological questions. Susan’s background is in fungal ecology but she currently works with a broad range of study organisms from plants to bees.
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/susanjarvis501?lang=en-gb) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=DuIhO1IAAAAJ&hl=en)
+
+**Phil Bouchet** (Website Coordinator)<br>
+<span class="member_affiliation">University of St Andrews</span>
+
+Phil is a quantitative marine ecologist with an active interest in the use of GIS and statistical methods to address pressing wildlife conservation problems in the ocean. Phil’s background is in marine mammal science, although his work encompasses a range of other species including sharks, pelagic fishes, turtles and seabirds. Phil’s interests lie in the estimation of animal abundance and distribution, using frequentist and Bayesian methods. He  is currently a Research Associate at the Centre for Research into Ecological & Environmental Modelling (CREEM) at the University of St Andrews, where he focuses on extrapolation in cetacean density models.
+
+<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/pjbouchet) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=X5SMt_8AAAAJ&hl=en) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Phil_Bouchet) | <i class="fas fa-globe-americas"></i> [Website](https://pjbouchet.github.io/)
