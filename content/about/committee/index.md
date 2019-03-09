@@ -40,3 +40,10 @@ Rick is a Principal Academic in Computational Ecology at Bournemouth University.
 Liam is a biological modeller with special focus on vegetation distribution modelling. His research focuses on understanding how vegetation patterns change at multiple scales, using data ranging from 10 cm scale to field and landscape scale. The main aim is to understand patterns in individual plants, plant communities, and catchment landscapes, relating them to small-scale environmental conditions, field-scale grazing through to broad-scale catchment management. This will allow plant distributions to be predicted at fine spatial scales from relatively coarse resolution remote-sensed data.
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/liambutler2405) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Liam_Butler4)
+
+**Susan Jarvis** (Ordinary Member)<br>
+<span class="member_affiliation">Centre for Ecology & Hydrology</span>
+
+Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lancaster. She is interested in understanding the processes behind species distributions, diversity and community composition and uses a range of methods including species distribution models and multivariate statistics. She is particularly interested in methods to combine multiple datasets (e.g. professional surveys and citizen science) to answer ecological questions. Susan’s background is in fungal ecology but she currently works with a broad range of study organisms from plants to bees.
+
+<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/susanjarvis501?lang=en-gb) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=DuIhO1IAAAAJ&hl=en)
