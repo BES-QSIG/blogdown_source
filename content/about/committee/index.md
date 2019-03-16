@@ -4,13 +4,17 @@ date = 2019-02-24
 draft = false
 +++
 
+<table>
+<tr><td class="member_picture"><img src="https://bes-qsig.github.io/img/LauraGraham.png" width="100px" height="100px"/></td>
+<td><table>
 **Laura Graham** (Secretary)<br>
-<span class="member_affiliation">University of Southampton</span>
+<span class="member_affiliation">University of Southampton</span></table>
+<table><i class="fab fa-twitter"></i> [Twitter](https://twitter.com/laurajanegraham?lang=en) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Laura_Graham13) | <i class="fas fa-globe-americas"></i> [Website](http://laurajanegraham.github.io/)</table>
+</td>
+</tr>
+</table>
 
 Laura is a spatial/computational ecologist who is interested in what impacts environmental changes have on species’ distributions and how we can use this information in landscape and conservation planning to reduce detrimental effects. In a previous career, Laura was a mathematician and database developer, and applies skills learned there to answer ecological questions.
-
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/laurajanegraham?lang=en) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Laura_Graham13) | <i class="fas fa-globe-americas"></i> [Website](http://laurajanegraham.github.io/)
-
 
 **Gergana Daskalova** (Training and Education Rep / Online Resources Coordinator)<br>
 <span class="member_affiliation">University of Edinburgh</span>
