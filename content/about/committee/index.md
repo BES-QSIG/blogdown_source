@@ -4,12 +4,12 @@ date = 2019-02-24
 draft = false
 +++
 
-<table>
-<tr><td class="member_picture"><img src="https://bes-qsig.github.io/img/LauraGraham.png" width="100px" height="100px"/></td>
+<table class="member_details">
+<tr><td><img class="member_picture" src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
 <td><table>
 **Laura Graham** (Secretary)<br>
 <span class="member_affiliation">University of Southampton</span></table>
-<table><i class="fab fa-twitter"></i> [Twitter](https://twitter.com/laurajanegraham?lang=en) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Laura_Graham13) | <i class="fas fa-globe-americas"></i> [Website](http://laurajanegraham.github.io/)</table>
+<table><i class="fab fa-twitter"></i> <a href="https://twitter.com/laurajanegraham?lang=en" target="_blank">Twitter</a> | <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Laura_Graham13" target="_blank">ResearchGate</a> | <i class="fas fa-globe-americas"></i> <a href="http://laurajanegraham.github.io/" target="_blank">Website</a></table>
 </td>
 </tr>
 </table>

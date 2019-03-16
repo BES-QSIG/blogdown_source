@@ -2137,3 +2137,8 @@ body.dark,
 .member_affiliation{
   color:#a2a2a2;
 }
+
+.member_picture{
+  width:250px;
+  height:250px;
+}
