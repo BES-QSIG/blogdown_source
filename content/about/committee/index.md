@@ -54,3 +54,10 @@ Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lan
 Phil is a quantitative marine ecologist with an active interest in the use of GIS and statistical methods to address pressing wildlife conservation problems in the ocean. Phil’s background is in marine mammal science, although his work encompasses a range of other species including sharks, pelagic fishes, turtles and seabirds. Phil’s interests lie in the estimation of animal abundance and distribution, using frequentist and Bayesian methods. He  is currently a Research Associate at the Centre for Research into Ecological & Environmental Modelling (CREEM) at the University of St Andrews, where he focuses on extrapolation in cetacean density models.
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/pjbouchet) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=X5SMt_8AAAAJ&hl=en) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Phil_Bouchet) | <i class="fas fa-globe-americas"></i> [Website](https://pjbouchet.github.io/)
+
+**Tom August** (Social Media Rep)<br>
+<span class="member_affiliation">Centre for Ecology & Hydrology</span>
+
+Tom is a computational ecologist at the Centre for Ecology & Hydrology. Tom’s work focuses on the nexus between citizen science, technology, and data science. Tom works with statistical experts to develop methods for analysing species occurrence data and works to make these methods available to other academics and practitioners. Tom’s work spans a range of tools and technologies including; AI, computer vision, drones, mobile phone applications and web platforms.
+
+<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/TomAugust85)
