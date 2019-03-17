@@ -2190,4 +2190,6 @@ margin-bottom: 0.5rem;}
   li.member_web{
   display:table;
   }
+  .leftcol{vertical-align: top;}
+  .leftcol > img:nth-child(1){margin-top:0.5em;}
 }
