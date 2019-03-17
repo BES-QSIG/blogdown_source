@@ -5,14 +5,16 @@ draft = false
 +++
 
 <table>
-<tr><td class="member_row"><img src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
-<td><table>
-<b>Laura Graham (Secretary)</b><br>
-<span class="member_affiliation">University of Southampton</span></table>
-<table><i class="fab fa-twitter"></i> <a href="https://twitter.com/laurajanegraham?lang=en" target="_blank"> Twitter</a> | <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Laura_Graham13" target="_blank"> ResearchGate</a> | <i class="fas fa-globe-americas"></i> <a href="http://laurajanegraham.github.io/" target="_blank"> Website</a></table>
-</td>
-</tr>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
+    <td class="rightcol"><table>
+      <b>Laura Graham (Secretary)</b><br>
+      <span class="member_affiliation">University of Southampton</span></table>
+      <table><i class="fab fa-twitter"> </i> <a href="https://twitter.com/laurajanegraham?lang=en" target="_blank"> Twitter</a> | <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Laura_Graham13" target="_blank"> ResearchGate</a> | <i class="fas fa-globe-americas"></i> <a href="http://laurajanegraham.github.io/" target="_blank"> Website</a></table>
+    </td>
+  </tr>
 </table>
+
 
 Laura is a spatial/computational ecologist who is interested in what impacts environmental changes have on species’ distributions and how we can use this information in landscape and conservation planning to reduce detrimental effects. In a previous career, Laura was a mathematician and database developer, and applies skills learned there to answer ecological questions.
 
