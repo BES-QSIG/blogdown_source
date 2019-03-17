@@ -2134,16 +2134,30 @@ body.dark,
   color: initial;
 }
 
+/* Committee bios */
 .member_affiliation{
   color:#a2a2a2;
 }
 
 .leftcol{
-    background-color: white;
+    background-color: white !important;
     width: 20%;
     border-top: 0px;
 }
 
 .rightcol{
-    background-color: white;
+    background-color: white !important;
     border-top: 0px;}
+    
+/* URL Link colour */
+a:hover, a:focus, a {
+    color: #0166c8;
+    text-decoration: none;
+}
+
+.article-metadata{
+  display:none;
+}
+
+h1 {
+ margin-bottom: 1em;}
