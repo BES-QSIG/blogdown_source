@@ -2165,9 +2165,29 @@ h1 {
  
 .rightcol > ul{
   padding-left: 0px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.leftcol{
+  vertical-align: middle;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 li.member_web, li.list_separator{
   display:inline;
 }
 
+table{
+margin-bottom: 0.5rem;}
+
+/* Responsive design on mobile devices */
+@media only screen and (max-width: 600px) {
+  li.list_separator{
+  display:none;
+  }
+  li.member_web{
+  display:table;
+  }
+}
