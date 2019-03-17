@@ -12,7 +12,9 @@ draft = false
       <table>
         <ul>
           <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/laurajanegraham?lang=en" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
           <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Laura_Graham13" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
           <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="http://laurajanegraham.github.io/" target="_blank"> Website</a></li>
         </ul>
       </table>
