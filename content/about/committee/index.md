@@ -3,6 +3,8 @@ title = "Commitee Members"
 draft = false
 +++
 
+[//]: # Laura Graham
+
 <table>
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
@@ -24,12 +26,30 @@ draft = false
 
 Laura is a spatial/computational ecologist who is interested in what impacts environmental changes have on species’ distributions and how we can use this information in landscape and conservation planning to reduce detrimental effects. In a previous career, Laura was a mathematician and database developer, and applies skills learned there to answer ecological questions.
 
-**Gergana Daskalova** (Training and Education Rep / Online Resources Coordinator)<br>
-<span class="member_affiliation">University of Edinburgh</span>
+[//]: # Gergana Daskalova
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/Gergana Daskalova.png"/></td>
+    <td class="rightcol"><table>
+      <b>Gergana Daskalova (Training and Education Rep / Online Resources Coordinator)</b><br>
+      <span class="member_affiliation">University of Edinburgh</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/gndaskalova?lang=en" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=i5lOn9sAAAAJ&hl=en" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://gndaskalova.com" target="_blank"> Website</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:gndaskalova@gmail.com" target="top"> Email</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Gergana is a global change ecologist with a passion for biodiversity change, agro-ecology and quantitative syntheses. The overarching aim of her research is to determine the sources of the complex patterns of population and biodiversity change observed over time around the world. From forest cover change around the world to climate warming in the Arctic and more, she is investigating how and why Earth’s biota is changing across the Anthropocene.
-
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/gndaskalova?lang=en) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=i5lOn9sAAAAJ&hl=en) | <i class="fas fa-globe-americas"></i> [Website](https://gndaskalova.com) | <i class="far fa-envelope"></i> [Email](mailto:gndaskalova@gmail.com)
 
 **Dominic Bennett** (Online Resources Coordinator)<br>
 <span class="member_affiliation">University of Gothenburg</span>
