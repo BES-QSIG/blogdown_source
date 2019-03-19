@@ -3,7 +3,7 @@ title = "Commitee Members"
 draft = false
 +++
 
-[//]: # Laura Graham
+<!-- Laura Graham -->
 
 <table>
   <tr>
@@ -26,11 +26,11 @@ draft = false
 
 Laura is a spatial/computational ecologist who is interested in what impacts environmental changes have on species’ distributions and how we can use this information in landscape and conservation planning to reduce detrimental effects. In a previous career, Laura was a mathematician and database developer, and applies skills learned there to answer ecological questions.
 
-[//]: # Gergana Daskalova
+<!-- Gergana Daskalova -->
 
 <table>
   <tr>
-    <td class="leftcol"><img src="https://bes-qsig.github.io/img/Gergana Daskalova.png"/></td>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/GerganaDaskalova.png"/></td>
     <td class="rightcol"><table>
       <b>Gergana Daskalova (Training and Education Rep / Online Resources Coordinator)</b><br>
       <span class="member_affiliation">University of Edinburgh</span></table>
