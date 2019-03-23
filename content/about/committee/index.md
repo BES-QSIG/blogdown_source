@@ -9,7 +9,7 @@ draft = false
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
     <td class="rightcol"><table>
-      <b>Laura Graham (Secretary)</b><br>
+      <b>Laura Graham</b> (Secretary)<br>
       <span class="member_affiliation">University of Southampton</span></table>
       <table>
         <ul>
@@ -32,7 +32,7 @@ Laura is a spatial/computational ecologist who is interested in what impacts env
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/GerganaDaskalova.png"/></td>
     <td class="rightcol"><table>
-      <b>Gergana Daskalova (Training and Education Rep / Online Resources Coordinator)</b><br>
+      <b>Gergana Daskalova</b> (Training and Education Rep)<br>
       <span class="member_affiliation">University of Edinburgh</span></table>
       <table>
         <ul>
@@ -57,7 +57,7 @@ Gergana is a global change ecologist with a passion for biodiversity change, agr
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/DominicBennett.png"/></td>
     <td class="rightcol"><table>
-      <b>Dominic Bennett (Online Resources Coordinator)</b><br>
+      <b>Dominic Bennett</b> (Online Resources Coordinator)<br>
       <span class="member_affiliation">University of Gothenburg</span></table>
       <table>
         <ul>
@@ -87,7 +87,7 @@ Rick is a Principal Academic in Computational Ecology at Bournemouth University.
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/LiamButler.png"/></td>
     <td class="rightcol"><table>
-      <b>Liam Butler (Training and Education Rep)</b><br>
+      <b>Liam Butler</b> (Training and Education Rep)<br>
       <span class="member_affiliation">Newcastle University</span></table>
       <table>
         <ul>
@@ -108,7 +108,7 @@ Liam is a biological modeller with special focus on vegetation distribution mode
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/SusanJarvis.png"/></td>
     <td class="rightcol"><table>
-      <b>Susan Jarvis (Ordinary Member)</b><br>
+      <b>Susan Jarvis</b> (Ordinary Member)<br>
       <span class="member_affiliation">Centre for Ecology & Hydrology</span></table>
       <table>
         <ul>
@@ -127,7 +127,7 @@ Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lan
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/PhilBouchet.png"/></td>
     <td class="rightcol"><table>
-      <b>Phil Bouchet (Website Coordinator)</b><br>
+      <b>Phil Bouchet</b> (Website Coordinator)<br>
       <span class="member_affiliation">University of St Andrews</span></table>
       <table>
         <ul>
