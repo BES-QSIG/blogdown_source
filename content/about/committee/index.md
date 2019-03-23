@@ -38,11 +38,11 @@ Laura is a spatial/computational ecologist who is interested in what impacts env
         <ul>
           <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/gndaskalova?lang=en" target="_blank"> Twitter</a></li>
           <li class="list_separator"> | </li>
-          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=i5lOn9sAAAAJ&hl=en" target="_blank"> ResearchGate</a></li>
+          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=i5lOn9sAAAAJ&hl=en" target="_blank"> Scholar</a></li>
           <li class="list_separator"> | </li>
           <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://gndaskalova.com" target="_blank"> Website</a></li>
           <li class="list_separator"> | </li>
-          <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:gndaskalova@gmail.com" target="top"> Email</a></li>
+          <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:gndaskalova@gmail.com"> Email</a></li>
         </ul>
       </table>
     </td>
@@ -51,12 +51,27 @@ Laura is a spatial/computational ecologist who is interested in what impacts env
 
 Gergana is a global change ecologist with a passion for biodiversity change, agro-ecology and quantitative syntheses. The overarching aim of her research is to determine the sources of the complex patterns of population and biodiversity change observed over time around the world. From forest cover change around the world to climate warming in the Arctic and more, she is investigating how and why Earth’s biota is changing across the Anthropocene.
 
-**Dominic Bennett** (Online Resources Coordinator)<br>
-<span class="member_affiliation">University of Gothenburg</span>
+<!-- Dominic Bennett -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/DominicBennett.png"/></td>
+    <td class="rightcol"><table>
+      <b>Dominic Bennett (Online Resources Coordinator)</b><br>
+      <span class="member_affiliation">University of Gothenburg</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/dominicjbennett?lang=en" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+         <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=Yp8S-_QAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Dom did a PhD in macroevolution at Imperial College London and the Zoological Society of London on the legitimacy of the term “living fossil”. He now works as an open-source developer in phylogenetics and biodiversity informatics as part of a postdoctoral position at the University of Gothenburg, Sweden.
 
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/dominicjbennett?lang=en) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=Yp8S-_QAAAAJ&hl=en)
 
 
 **Rick Stafford** (Ordinary Member)<br>
@@ -66,19 +81,48 @@ Rick is a Principal Academic in Computational Ecology at Bournemouth University.
 
 <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/rick7575?lang=en)
 
-**Liam Butler** (Training and Education Rep)<br>
-<span class="member_affiliation">Newcastle University</span>
+<!-- Liam Butler -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/LiamButler.png"/></td>
+    <td class="rightcol"><table>
+      <b>Liam Butler (Training and Education Rep)</b><br>
+      <span class="member_affiliation">Newcastle University</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/liambutler2405" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+    <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Liam_Butler4" target="_blank"> ResearchGate</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Liam is a biological modeller with special focus on vegetation distribution modelling. His research focuses on understanding how vegetation patterns change at multiple scales, using data ranging from 10 cm scale to field and landscape scale. The main aim is to understand patterns in individual plants, plant communities, and catchment landscapes, relating them to small-scale environmental conditions, field-scale grazing through to broad-scale catchment management. This will allow plant distributions to be predicted at fine spatial scales from relatively coarse resolution remote-sensed data.
 
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/liambutler2405) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Liam_Butler4)
+<!-- Susan Jarvis -->
 
-**Susan Jarvis** (Ordinary Member)<br>
-<span class="member_affiliation">Centre for Ecology & Hydrology</span>
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/SusanJarvis.png"/></td>
+    <td class="rightcol"><table>
+      <b>Susan Jarvis (Ordinary Member)</b><br>
+      <span class="member_affiliation">Centre for Ecology & Hydrology</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/susanjarvis501?lang=en-gb" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+              <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=DuIhO1IAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lancaster. She is interested in understanding the processes behind species distributions, diversity and community composition and uses a range of methods including species distribution models and multivariate statistics. She is particularly interested in methods to combine multiple datasets (e.g. professional surveys and citizen science) to answer ecological questions. Susan’s background is in fungal ecology but she currently works with a broad range of study organisms from plants to bees.
 
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/susanjarvis501?lang=en-gb) | <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=DuIhO1IAAAAJ&hl=en)
 
 **Phil Bouchet** (Website Coordinator)<br>
 <span class="member_affiliation">University of St Andrews</span>
