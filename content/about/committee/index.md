@@ -123,6 +123,8 @@ Liam is a biological modeller with special focus on vegetation distribution mode
 
 Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lancaster. She is interested in understanding the processes behind species distributions, diversity and community composition and uses a range of methods including species distribution models and multivariate statistics. She is particularly interested in methods to combine multiple datasets (e.g. professional surveys and citizen science) to answer ecological questions. Susan’s background is in fungal ecology but she currently works with a broad range of study organisms from plants to bees.
 
+<!-- Phil Bouchet -->
+
 <table>
   <tr>
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/PhilBouchet.png"/></td>
@@ -145,6 +147,31 @@ Susan is a quantitative ecologist at the Centre for Ecology and Hydrology in Lan
 </table>
 
 Phil is a quantitative marine ecologist with an active interest in the use of GIS and statistical methods to address pressing wildlife conservation problems in the ocean. Phil’s background is in marine mammal science, although his work encompasses a range of other species including sharks, pelagic fishes, turtles and seabirds. Phil’s interests lie in the estimation of animal abundance and distribution, using frequentist and Bayesian methods. He  is currently a Research Associate at the Centre for Research into Ecological & Environmental Modelling (CREEM) at the University of St Andrews, where he focuses on extrapolation in cetacean density models.
+
+<!-- Sarah Marley -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/SarahMarley.png"/></td>
+    <td class="rightcol"><table>
+      <b>Sarah Marley</b> (Ordinary Member)<br>
+      <span class="member_affiliation">University of Portsmouth</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/sarahmarley86?lang=en" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+         <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com.au/citations?user=BjaSV0sAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        <li class="list_separator"> | </li>
+        <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/lab/Marley-Lab-Sarah-Anne-Marley" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://sarahmarley.com/" target="_blank"> Website</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Sarah is a bioacoustician specialising in vertebrate ecology, animal behaviour, and underwater soundscapes. Her research focuses primarily on marine megafauna, including cetaceans (whales, dolphins, porpoises), pinnipeds (seals, sea lions), birds, and fish. Sarah is a prize-winning science communicator and tertiary educator with a strong interest in both public engagement and citizen science.
 
 **Tom August** (Social Media Rep)<br>
 <span class="member_affiliation">Centre for Ecology & Hydrology</span>
