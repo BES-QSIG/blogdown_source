@@ -73,13 +73,30 @@ Gergana is a global change ecologist with a passion for biodiversity change, agr
 Dom did a PhD in macroevolution at Imperial College London and the Zoological Society of London on the legitimacy of the term “living fossil”. He now works as an open-source developer in phylogenetics and biodiversity informatics as part of a postdoctoral position at the University of Gothenburg, Sweden.
 
 
+<!-- Rick Satfford -->
 
-**Rick Stafford** (Ordinary Member)<br>
-<span class="member_affiliation">Bournemouth University</span>
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/RickStafford.png"/></td>
+    <td class="rightcol"><table>
+      <b>Rick Stafford</b> (Ordinary Member)<br>
+      <span class="member_affiliation">Bournemouth University</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/rick7575?lang=en" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+         <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=2sE_eh8AAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        <li class="list_separator"> | </li>
+        <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Richard_Stafford" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="http://www.rickstafford.com/" target="_blank"> Website</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Rick is a Principal Academic in Computational Ecology at Bournemouth University. His research involves the application of statistical and computational techniques to a wide variety of systems, particularly the structure of marine communities. Rick is interested in identification of novel biomarkers, and how these can be linked to changes in community structure; and also in the development of models with simple and intuitive interfaces, which can be used in topics as diverse as policy, management or education.
-
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/rick7575?lang=en)
 
 <!-- Liam Butler -->
 
@@ -173,9 +190,25 @@ Phil is a quantitative marine ecologist with an active interest in the use of GI
 
 Sarah is a bioacoustician specialising in vertebrate ecology, animal behaviour, and underwater soundscapes. Her research focuses primarily on marine megafauna, including cetaceans (whales, dolphins, porpoises), pinnipeds (seals, sea lions), birds, and fish. Sarah is a prize-winning science communicator and tertiary educator with a strong interest in both public engagement and citizen science.
 
-**Tom August** (Social Media Rep)<br>
-<span class="member_affiliation">Centre for Ecology & Hydrology</span>
+<!-- Tom August -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/TomAugust.png"/></td>
+    <td class="rightcol"><table>
+      <b>Tom August</b> (Social Media Rep)<br>
+      <span class="member_affiliation">Centre for Ecology & Hydrology</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/TomAugust85" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+         <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.co.uk/citations?user=X1G0mv0AAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        <li class="list_separator"> | </li>
+        <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Tom_August/" target="_blank"> ResearchGate</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Tom is a computational ecologist at the Centre for Ecology & Hydrology. Tom’s work focuses on the nexus between citizen science, technology, and data science. Tom works with statistical experts to develop methods for analysing species occurrence data and works to make these methods available to other academics and practitioners. Tom’s work spans a range of tools and technologies including; AI, computer vision, drones, mobile phone applications and web platforms.
-
-<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/TomAugust85)
