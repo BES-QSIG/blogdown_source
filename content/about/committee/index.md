@@ -73,6 +73,32 @@ Gergana is a global change ecologist with a passion for biodiversity change, agr
 Dom did a PhD in macroevolution at Imperial College London and the Zoological Society of London on the legitimacy of the term “living fossil”. He now works as an open-source developer in phylogenetics and biodiversity informatics as part of a postdoctoral position at the University of Gothenburg, Sweden.
 
 
+<!-- Rob Salguero-Gómez -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/RobSalguero.png"/></td>
+    <td class="rightcol"><table>
+      <b>Rob Salguero-Gómez</b> (Finance Officer)<br>
+      <span class="member_affiliation">Oxford University</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/rob_salgo" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+         <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=bgMIMNIAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+        <li class="list_separator"> | </li>
+        <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Roberto_Salguero-Gomez2" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://www.zoo.ox.ac.uk/people/dr-rob-salguero-gomez" target="_blank"> Website</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Rob obtained his PhD in Ecology, Evolution and Biodiversity at Penn (USA), and then did several postdoctoral and independent research fellowship stages in Germany, Australia and the UK. He is an Associate Professor in Ecology at Oxford and a tutorial fellow at Pembroke College. His research group explore the underlying mechanisms of life history strategies, the linkage between functional traits and demographic performance, and the evolution of senescence.
+
+
 <!-- Rick Satfford -->
 
 <table>
