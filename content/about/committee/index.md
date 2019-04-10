@@ -238,3 +238,27 @@ Sarah is a bioacoustician specialising in vertebrate ecology, animal behaviour, 
 </table>
 
 Tom is a computational ecologist at the Centre for Ecology & Hydrology. Tom’s work focuses on the nexus between citizen science, technology, and data science. Tom works with statistical experts to develop methods for analysing species occurrence data and works to make these methods available to other academics and practitioners. Tom’s work spans a range of tools and technologies including; AI, computer vision, drones, mobile phone applications and web platforms.
+
+<!-- Simon Kapitza -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/SimonKapitza.png"/></td>
+    <td class="rightcol"><table>
+      <b>Simon Kapitza</b> (Ordinary Member)<br>
+      <span class="member_affiliation">University of Melbourne</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/simonkapitza" target="_blank"> Twitter</a></li>
+        <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://github.com/kapitzas" target="_blank"> Website</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:simon.statecology@gmail.com"> Email</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Simon is a global change ecologist at the Quantitative & Applied Ecology Group in Melbourne. He is interested in developing methods for integrated assessments of biodiversity change to better forecast the fate of biodiversity under different future scenarios. His particular focus is on understanding the importance of socioeconomic drivers and capturing impacts of global transitions by coupling models across scientific disciplines.
+
