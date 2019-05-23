@@ -35,6 +35,8 @@ external_link = ""
   focal_point = "Center"
 +++
 
+![Caption](QuantMove2019.png)
+
 The BES Quantitative and Movement Ecology special interest groups will be holding their annual meetings back to back **on 9th & 10th July 2019 in Sheffield**. This joint meeting will take advantage of shared strengths as well as shared challenges between the two groups, and foster links between them.
 
 The meeting will be along the common theme of Analysing big datasets while answering big ecological questions and the challenges associated with it. We welcome talks, posters and will have discussions on general issues with computation; integrating different datasets; and propagating uncertainty in ecological analyses.
