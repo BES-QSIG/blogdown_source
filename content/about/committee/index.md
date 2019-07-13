@@ -249,9 +249,9 @@ Tom is a computational ecologist at the Centre for Ecology & Hydrology. Tom’s 
       <span class="member_affiliation">University of Melbourne</span></table>
       <table>
         <ul>
-          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/simonkapitza" target="_blank"> Twitter</a></li>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/simonecology" target="_blank"> Twitter</a></li>
         <li class="list_separator"> | </li>
-          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://github.com/kapitzas" target="_blank"> Website</a></li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://kapitzas.github.io" target="_blank"> Website</a></li>
           <li class="list_separator"> | </li>
           <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:simon.statecology@gmail.com"> Email</a></li>
         </ul>
