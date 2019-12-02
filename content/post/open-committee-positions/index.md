@@ -32,7 +32,8 @@ categories = []
 
 **Deputy Secretary**
 
-We are looking for a Quantitative Ecologist to step into the deputy secretary role and provide some continuity to the SIG leadership. The deputy secretary role involves
+We are looking for a Quantitative Ecologist to step into the deputy secretary role and provide some continuity to the SIG leadership. The deputy secretary role involves:
+
 - Supporting the secretary in the running of the SIG - helping with budgets, suggesting events etc.
 - Attending meetings at BES HQ twice a year (travel & accommodation covered)
 - Seek to expand the SIG and promote quantitative ecology within the BES
