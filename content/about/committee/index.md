@@ -26,6 +26,31 @@ draft = false
 
 Laura is a spatial/computational ecologist who is interested in what impacts environmental changes have on species’ distributions and how we can use this information in landscape and conservation planning to reduce detrimental effects. In a previous career, Laura was a mathematician and database developer, and applies skills learned there to answer ecological questions.
 
+<!-- Chris Sutherland -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/ChrisSutherland.png"/></td>
+    <td class="rightcol"><table>
+      <b>Chris Sutherland</b> (Deputy Secretary)<br>
+      <span class="member_affiliation">University of St Andrews</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/chrissuthy?lang=en" target="_blank"> Twitter</a></li>
+             <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=PZhqA9UAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Chris_Sutherland2" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://www.sutherlandecology.com/" target="_blank"> Website</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Chris is primarily interested in spatial population ecology, with a specific focus on space use, dispersal, and demography. The overarching theme of his research, and the research of those in his group, is increasing the biological realism of modern eco-statistical models to best test spatial ecological theory.
+
 <!-- Gergana Daskalova -->
 
 <table>
@@ -50,6 +75,30 @@ Laura is a spatial/computational ecologist who is interested in what impacts env
 </table>
 
 Gergana is a global change ecologist with a passion for biodiversity change, agro-ecology and quantitative syntheses. The overarching aim of her research is to determine the sources of the complex patterns of population and biodiversity change observed over time around the world. From forest cover change around the world to climate warming in the Arctic and more, she is investigating how and why Earth’s biota is changing across the Anthropocene.
+
+<!-- Fiona Burns -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/FionaBurns.png"/></td>
+    <td class="rightcol"><table>
+      <b>Fiona Burns</b> (Policy Rep)<br>
+      <span class="member_affiliation">Royal Society for the Protection of Birds</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/f_e_burns" target="_blank"> Twitter</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Fiona_Burns2" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/fiona-burns/" target="_blank"> Website</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Fiona is a scientist in the Centre for Conservation Science at the RSPB. Her work aims to understand the status and trends of a broad range of species and habitats in the UK, and the underlying environmental variables which drive change in these, including conservation action. She works work with other NGOs, academics and statutory agencies to produce syntheses of these data for a range of audiences.
+
 
 <!-- Dominic Bennett -->
 
@@ -261,4 +310,31 @@ Tom is a computational ecologist at the Centre for Ecology & Hydrology. Tom’s 
 </table>
 
 Simon is a global change ecologist at the Quantitative & Applied Ecology Group in Melbourne. He is interested in developing methods for integrated assessments of biodiversity change to better forecast the fate of biodiversity under different future scenarios. His particular focus is on understanding the importance of socioeconomic drivers and capturing impacts of global transitions by coupling models across scientific disciplines.
+
+<!-- Jon Yearsley -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/JonYearsley.png"/></td>
+    <td class="rightcol"><table>
+      <b>Jon Yearsley</b> (Ordinary Member)<br>
+      <span class="member_affiliation">University College Dublin</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/jonyearsley?lang=en" target="_blank"> Twitter</a></li>
+        <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://www.ucd.ie/ecomodel" target="_blank"> Website</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=vdwNKNYAAAAJ&hl=en" target="_blank"> Scholar</a></li>
+           <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Jon_Yearsley" target="_blank"> ResearchGate</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="far fa-envelope"></i> <a href="mailto:Jon.Yearsley@ucd.ie"> Email</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Jon is a mathematical biologist with research interests that combine ecological theory with ecological data. His active research areas are in ecosystem resilience (primarily grasslands), phenology, analysis of biological records, and modelling of dispersal for genetic diversity and population spread.  Jon is also enthusiastic about teaching quantitative methods to life science students. A sample of teaching resources can be found on his website. His is secretary of the Irish Ecological Association (https://www.irishecologicalassociation.org)
 
