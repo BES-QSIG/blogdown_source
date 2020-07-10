@@ -68,12 +68,13 @@ Keynote speaker: Gergana Daskalova, University of Edinburgh
 
 <h2 class="subtitle">Lightning talks</h2>
 
-If you would like to be considered to give a 5-minute lightning talk, please submit a title and select the appropriate session when prompted in the registration form. Deadline to submit a talk is **Wednesday 8 July.**
+If you would like to be considered to give a 5-minute lightning talk, please submit a title and select the appropriate session when prompted in the registration form.
 
 <h2 class="subtitle">Registration</h2>
 
 This event will take place on Zoom, and a link will be sent out to all attendees prior to the event. 
-The registration deadline is **Monday 13 July.**
+
+The registration and abstract submission deadline is **Friday 17 July.**
 
 Register [here](https://www.eventbrite.co.uk/e/bes-quantitative-ecology-virtual-meeting-2020-tickets-109796596576)
 
