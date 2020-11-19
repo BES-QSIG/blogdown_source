@@ -338,3 +338,27 @@ Simon is a global change ecologist at the Quantitative & Applied Ecology Group i
 
 Jon is a mathematical biologist with research interests that combine ecological theory with ecological data. His active research areas are in ecosystem resilience (primarily grasslands), phenology, analysis of biological records, and modelling of dispersal for genetic diversity and population spread.  Jon is also enthusiastic about teaching quantitative methods to life science students. A sample of teaching resources can be found on his website. His is secretary of the Irish Ecological Association (https://www.irishecologicalassociation.org)
 
+<!-- Shaun Keegan -->
+
+<table>
+  <tr>
+    <td class="leftcol"><img src="https://bes-qsig.github.io/img/ShaunKeegan.png"/></td>
+    <td class="rightcol"><table>
+      <b>Shaun Keegan</b> (Early Career Representative)<br>
+      <span class="member_affiliation">University of Glasgow</span></table>
+      <table>
+        <ul>
+          <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/DrShaunKeegan" target="_blank"> Twitter</a></li>
+        <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fas fa-globe-americas"></i> <a href="https://keegan.science/" target="_blank"> Website</a></li>
+          <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-google"></i> <a href="https://scholar.google.com/citations?user=88-24B0AAAAJ&hl=en&oi=ao" target="_blank"> Scholar</a></li>
+           <li class="list_separator"> | </li>
+          <li class="member_web"><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Shaun_Keegan" target="_blank"> ResearchGate</a></li>
+        </ul>
+      </table>
+    </td>
+  </tr>
+</table>
+
+Shaun is an epidemiologist and quantitative ecologist. His core research currently focuses on mathematically modelling antimicrobial resistance (AMR) emergence and transmission in Trypanosoma congolense, one of the causes of Nagana, a wasting disease of African cattle. He is interested in AMR in a broader sense, and keen to explore the utility of mathematical models to produce actionable suggestions for AMR stewardship.
