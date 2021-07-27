@@ -10,7 +10,7 @@ draft = false
     <td class="leftcol"><img src="https://bes-qsig.github.io/img/LauraGraham.png"/></td>
     <td class="rightcol"><table>
       <b>Laura Graham</b> (Secretary)<br>
-      <span class="member_affiliation">University of Southampton</span></table>
+      <span class="member_affiliation">University of Birmingham</span></table>
       <table>
         <ul>
           <li class="member_web"><i class="fab fa-twitter"> </i> <a href="https://twitter.com/laurajanegraham?lang=en" target="_blank"> Twitter</a></li>
