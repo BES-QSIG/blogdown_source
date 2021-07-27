@@ -69,5 +69,5 @@ Talk and poster title deadline is **23:59 BST (GMT+1) 13 August 2021**. We will 
 
 Registration deadline is **23:59 BST, 16 August 2021**.
 
-Register [here](https://www.eventbrite.co.uk/e/quantitative-sig-annual-meeting-2021-tickets-163389130287)
+Register [**here**](https://www.eventbrite.co.uk/e/quantitative-sig-annual-meeting-2021-tickets-163389130287)
 
