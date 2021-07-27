@@ -27,7 +27,7 @@ external_link = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Get to know like-minded ecologists in record time." 
+  caption = "Join us online for three days of quantitative ecology!." 
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
