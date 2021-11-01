@@ -41,7 +41,7 @@ responsible for planning future events which meet the aims of the SIG:
 
 If you are interested in applying, please send a brief covering letter
 and CV to
-[quantitative\@britishecologicalsociety.org](mailto:quantitative@britishecologicalsociety.org){.email}
+[quantitative@britishecologicalsociety.org](mailto:quantitative@britishecologicalsociety.org)
 by Friday 19th November 2021. Your covering letter should address the
 following points:
 
